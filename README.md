@@ -8,12 +8,12 @@ Opposed is a roblox script that allows for people to gain advantages while playi
 
 Opposed contains features such as VR Aimbot and Kill All.
 
+![(Image of the Menu)](images/MenuPng.png)
+
 ## Loadstring
 ```
 loadstring(game:httpGet("https://raw.githubusercontent.com/OpposedDev/Opposed/refs/heads/main/main/loader.lua"))()
 ```
-
-![(Image of the Menu)](images/MenuPng.png)
 
 # Features ⚙️
 If you've used "Hackeroo's Opposer VR Menu," some of these options have been reworked to work properly in today's Opposer VR.
