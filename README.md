@@ -12,7 +12,7 @@ Opposed contains features such as VR Aimbot and Kill All.
 
 ## Loadstring
 ```
-loadstring(game:httpGet("https://raw.githubusercontent.com/OpposedDev/Opposed/refs/heads/main/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OpposedDev/Opposed/refs/heads/main/main/loader.lua"))()
 ```
 
 # Features ⚙️
