@@ -6,7 +6,12 @@ The repository hosting Opposed for Opposer VR. Created by OpposedDev (Aka. Hacke
 # Information ℹ️
 Opposed is a roblox script that allows for people to gain advantages while playing Opposer VR in PCVR.
 
-Opposed contains numerous features from VR Aimbot to Fly hacks.
+Opposed contains features such as VR Aimbot and Kill All.
+
+## Loadstring
+```
+loadstring(game:httpGet("https://raw.githubusercontent.com/OpposedDev/Opposed/refs/heads/main/main/loader.lua"))()
+```
 
 ![(Image of the Menu)](images/MenuPng.png)
 
@@ -32,6 +37,9 @@ There are also brand new options, which are OP.
 ## Miscllaneous
 - Jetpack (Fly, Configurable)
 - Gravity Override (Configurable)
-- Arm Kill All (OP)
+- Right Arm Kill All (OP)
 - Bring All Guns (Buggy, May fail due to Network Ownership)
 - Bring All Secret Guns (May fail due to Network Ownership)
+
+# Known Issues
+- Chams may bug, toggle between occluded and normal chams to fix.
