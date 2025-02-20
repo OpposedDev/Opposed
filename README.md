@@ -1,7 +1,9 @@
 # Opposed
 <img src="images/opposed.png" alt="Opposed Logo" width="320" height="320">
 
-The repository hosting Opposed for Opposer VR. Created by OpposedDev (Aka. Hackeroo)
+The repository hosting Opposed for Opposer VR. Created by OpposedDev (Aka. Hackeroo) 
+> [!WARNING]
+> THIS SCRIPT IS PUBLIC, BUT I HAVE NOT COMPLETELY RELEASED THE MENU. THINGS MAY CHANGE BEFORE THE FIRST RELEASE.
 
 # Information ℹ️
 Opposed is a roblox script that allows for people to gain advantages while playing Opposer VR in PCVR.
