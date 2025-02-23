@@ -11,7 +11,13 @@ Opposed contains features such as VR Aimbot and Kill All.
 ![(Image of the Menu)](images/MenuPng.png)
 
 ## Loadstring
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OpposedDev/Opposed/refs/heads/main/main/loader.lua"))()
 ```
+
+To load into the latest nightly build, use:
+```lua
+_G.OMBuild = "nightly"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OpposedDev/Opposed/refs/heads/main/main/loader.lua"))()
 ```
 
